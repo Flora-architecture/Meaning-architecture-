@@ -23,4 +23,7 @@ We propose a mapping between interaction dynamics and model architecture:
 - **Validation Phase**: Scaling the LSO protocol to N=10+ for cross-subject reproducibility.
 - **Metric Refinement**: Quantifying "Interaction Coherence" and "Metabolic Governance" in AGI environments.
 
+### 5. Collaborative Inquiry
+-**We invite researchers in Dynamic Systems, Neuroscience, and Transformer Architecture to scrutinize these longitudinal traces. The goal is to move from "Prompt Engineering" to "Trajectory Governance."
+
 *Status: Research in progress. Theoretical frameworks are subject to empirical recalibration.*
